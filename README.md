@@ -17,12 +17,12 @@ Passionate developer focused on building real-world cross platform applications.
 - Next Js
 - Kivy
 - FastAPI
+- Tailwindcss
 
 ## Libraries
 - React
 - Vue
 - Angular
-- Tailwindcss
 - Keras
 - TensorFLow
 - PyTorch
