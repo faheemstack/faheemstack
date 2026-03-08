@@ -1,6 +1,6 @@
 # Hi 👋 I'm Faheem Qasim
 
-## 🚀 About Me
+## About Me
 Passionate developer focused on building real-world cross platform applications. 
 ## 📈 Frameworks
 - Django
@@ -9,7 +9,7 @@ Passionate developer focused on building real-world cross platform applications.
 - Kivy
 - FastAPI
 - Tailwindcss
-## Libraries
+## 📚 Libraries
 - React
 - Vue
 - Angular
@@ -18,7 +18,7 @@ Passionate developer focused on building real-world cross platform applications.
 - PyTorch
 - Numpy
 - Pandas
-<p align="">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="80"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="80"/>
