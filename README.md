@@ -2,7 +2,7 @@
 
 ## About Me
 Passionate developer focused on building real-world cross platform applications. 
-## 📈 Frameworks
+## <h2 align="">📈 Frameworks</h2>
 - Django
 - Flask
 - Next Js
@@ -14,11 +14,11 @@ Passionate developer focused on building real-world cross platform applications.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="60" height="60" alt="Flask"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" height="60" alt="NextJS"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="60" height="60" alt="FastAPI"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss.svg" width="60" height="60" alt="TailwindCSS"/>
+<img src="" width="60" height="60" alt="TailwindCSS"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Kivy (Python Based)"/>
 </p>
 
-## 📚 Libraries
+## <h2 align="">⚡Tech Stack</h2>
 - React
 - Vue
 - Angular
@@ -28,7 +28,6 @@ Passionate developer focused on building real-world cross platform applications.
 - Numpy
 - Pandas
 
-<h2 align="">⚡ Tech Stack</h2>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="React"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="60" alt="Vue"/>
@@ -38,7 +37,6 @@ Passionate developer focused on building real-world cross platform applications.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="80" alt="PyTorch"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" alt="NumPy"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="80" alt="Pandas"/>
-
 </p>
 
 ## 📫 Contact
