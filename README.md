@@ -1,7 +1,8 @@
 # <h1>Hi 👋 I'm Faheem Qasim</h1>
 
-## About Me
-Passionate developer focused on building real-world cross platform applications. 
+## <h2>About Me</h2>
+A passionate Cross-Platform Developer, Web Engineer, and Designer who enjoys building scalable applications and intelligent systems.
+I specialize in developing modern web platforms, dynamic backend systems, cross-platform applications, and AI-powered solutions. My workflow combines powerful Python ecosystems, modern JavaScript frameworks, and clean UI design to deliver efficient and user-friendly software.
 ## <h2>📈 Frameworks</h2>
 - Django
 - Flask
