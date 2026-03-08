@@ -28,6 +28,18 @@ Passionate developer focused on building real-world cross platform applications.
 - PyTorch
 - Numpy
 - Pandas
+# 🚀 Python Development Repository
+
+## 🛠 Technologies Used
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="80"/>
+</p>
+
+This repository contains projects focused on **Data Analysis, Intelligent Chatbots, Web Scraping, and Dynamic Web Applications** built with **Python, Flask, Django, and TailwindCSS**.
 
 ## 📫 Contact
 Email: contact@faheemqasim.com
