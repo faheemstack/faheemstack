@@ -1,20 +1,21 @@
-# Hi 👋 I'm Faheem Qasim
+# <h1>Hi 👋 I'm Faheem Qasim</h1>
 
 ## About Me
 Passionate developer focused on building real-world cross platform applications. 
-## <h2 align="">📈 Frameworks</h2>
+## <h2>📈 Frameworks</h2>
 - Django
 - Flask
 - Next Js
 - Kivy
 - FastAPI
 - Tailwindcss
+
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="60" height="60" alt="Django"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="60" height="60" alt="Flask"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" height="60" alt="NextJS"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="60" height="60" alt="FastAPI"/>
-<img src="" width="60" height="60" alt="TailwindCSS"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbDOtLStMYosxGKQ72Ra1ATVtqsD3WenT9e9YFawd&s" width="60" height="60" alt="TailwindCSS"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Kivy (Python Based)"/>
 </p>
 
@@ -39,5 +40,5 @@ Passionate developer focused on building real-world cross platform applications.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="80" alt="Pandas"/>
 </p>
 
-## 📫 Contact
+## <h2>📫 Contact</h2>
 Email: contact@faheemqasim.com
