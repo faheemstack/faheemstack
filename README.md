@@ -18,12 +18,12 @@ Passionate developer focused on building real-world cross platform applications.
 - PyTorch
 - Numpy
 - Pandas
-<p align="center">
+<p align="">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="80"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="80"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="80"/>
-<h2 align="center">⚡ Tech Stack</h2>
+<h2 align="">⚡ Tech Stack</h2>
 
 <p align="center">
 
